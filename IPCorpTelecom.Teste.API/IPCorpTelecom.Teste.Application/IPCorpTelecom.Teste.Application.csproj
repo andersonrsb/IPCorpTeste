@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Queries\ConsultarLogQuerie.cs" />
+    <Compile Remove="Queries\ConsultarLogQuery.cs" />
+    <Compile Remove="Queries\ConsultarLogQueryResponse.cs" />
+    <Compile Remove="Queries\IConsultarLogQuery.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IPCorpTelecom.Teste.Domain\IPCorpTelecom.Teste.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

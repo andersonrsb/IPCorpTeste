@@ -1,0 +1,13 @@
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\bin\Debug\netcoreapp1.1\IPCorpTelecom.Teste.API.Test.deps.json
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\bin\Debug\netcoreapp1.1\IPCorpTelecom.Teste.API.Test.runtimeconfig.json
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\bin\Debug\netcoreapp1.1\IPCorpTelecom.Teste.API.Test.runtimeconfig.dev.json
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\bin\Debug\netcoreapp1.1\IPCorpTelecom.Teste.API.Test.dll
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\bin\Debug\netcoreapp1.1\IPCorpTelecom.Teste.API.Test.pdb
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\obj\Debug\netcoreapp1.1\IPCorpTelecom.Teste.API.Test.csproj.CoreCompileInputs.cache
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\obj\Debug\netcoreapp1.1\IPCorpTelecom.Teste.API.Test.AssemblyInfo.cs
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\obj\Debug\netcoreapp1.1\IPCorpTelecom.Teste.API.Test.dll
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\obj\Debug\netcoreapp1.1\IPCorpTelecom.Teste.API.Test.pdb
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.API.Test\obj\Debug\netcoreapp1.1\IPCorpTelecom.Teste.API.Test.csprojResolveAssemblyReference.cache

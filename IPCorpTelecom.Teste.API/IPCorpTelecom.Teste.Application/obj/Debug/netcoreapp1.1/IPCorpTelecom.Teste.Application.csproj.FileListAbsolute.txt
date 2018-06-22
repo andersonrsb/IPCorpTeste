@@ -1,0 +1,10 @@
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.Application\bin\Debug\netcoreapp1.1\IPCorpTelecom.Teste.Application.deps.json
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.Application\obj\Debug\netcoreapp1.1\IPCorpTelecom.Teste.Application.csprojResolveAssemblyReference.cache
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.Application\obj\Debug\netcoreapp1.1\IPCorpTelecom.Teste.Application.csproj.CoreCompileInputs.cache
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.Application\obj\Debug\netcoreapp1.1\IPCorpTelecom.Teste.Application.AssemblyInfo.cs
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.Application\bin\Debug\netcoreapp1.1\IPCorpTelecom.Teste.Application.dll
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.Application\bin\Debug\netcoreapp1.1\IPCorpTelecom.Teste.Application.pdb
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.Application\bin\Debug\netcoreapp1.1\IPCorpTelecom.Teste.Domain.dll
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.Application\bin\Debug\netcoreapp1.1\IPCorpTelecom.Teste.Domain.pdb
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.Application\obj\Debug\netcoreapp1.1\IPCorpTelecom.Teste.Application.dll
+C:\Particular\IPCorpTelecom.Teste.API\IPCorpTelecom.Teste.Application\obj\Debug\netcoreapp1.1\IPCorpTelecom.Teste.Application.pdb
