@@ -1,0 +1,49 @@
+<div class="container">
+  <h2>Log da BASE</h2>
+  <p>Se caso não houver nenhum registro na base, será cadastrado com os dados da API disponibilizada</p>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>LogSistema</th>
+        <th>Data</th>
+        <th>Origem</th>
+        <th>Context</th>
+        <th>Severidade</th>
+        <th>Mensagem</th>
+        <th>ArquivoFonte</th>
+        <th>MetodoFonte</th>
+        <th>Maquina</th>
+        <th>LinhaFonte</th>
+        <th>Propriedades</th>
+        <th>Exceção</th>
+        <th>OrigemId</th>
+        <th>LogContextoId</th>        
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let log of lstLog">
+        <td>{{log.logSistemaId}}</td>
+        <td>{{log.data}}</td>
+        <td>{{log.origem}}</td>
+        <td>{{log.context}}</td>
+        <td>{{log.severidade}}</td>
+        <td>{{log.mensagem}}</td>
+        <td>{{log.arquivoFonte}}</td>
+        <td>{{log.metodoFonte}}</td>
+        <td>{{log.maquina}}</td>
+        <td>{{log.linhaFonte}}</td>
+        <td>{{log.propriedades}}</td>
+        <td>{{log.excecao}}</td>
+        <td>{{log.origemId}}</td>
+        <td>{{log.logContextoId}}</td>
+      </tr>      
+    </tbody>
+  </table>
+</div>
+<br />
+<div>
+  <input type="text" class="form-control" [(ngModel)]="model.id" name="id" placeholder="Digite Log Sistema " maxlength="8" /><br /><br />
+  <button type="button" (click)="getAll()">Buscar todos LOG's</button>
+</div>
+
+
